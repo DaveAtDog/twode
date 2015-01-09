@@ -1,10 +1,10 @@
 { 
-  "name": "ntwitter", 
-  "version": "0.5.0",
+  "name": "twode", 
+  "version": "0.0.1",
   "description": "Asynchronous Twitter REST/stream/search client API for node.js.", 
   "keywords": ["twitter","streaming","oauth"], 
-  "homepage": "https://github.com/AvianFlu/ntwitter", 
-  "author": "jdub, changes by AvianFlu", 
+  "homepage": "https://github.com/streetlight/twode", 
+  "author": "jdub, changes by AvianFlu, changes by streetlight", 
   "licenses": { 
     "type": "MIT", 
     "url": "http://github.com/AvianFlu/ntwitter/raw/master/LICENSE"
