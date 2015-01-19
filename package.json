@@ -7,11 +7,11 @@
   "author": "jdub, changes by AvianFlu, changes by streetlight", 
   "licenses": { 
     "type": "MIT", 
-    "url": "http://github.com/AvianFlu/ntwitter/raw/master/LICENSE"
+    "url": "http://github.com/streetlight/twode/raw/master/LICENSE"
   },
   "repository": { 
     "type": "git", 
-    "url": "http://github.com/AvianFlu/ntwitter.git"
+    "url": "http://github.com/streetlight/twode.git"
   }, 
   "dependencies": { 
     "oauth": ">=0.8.4", 
