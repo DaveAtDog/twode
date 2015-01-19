@@ -3,10 +3,11 @@ Asynchronous Twitter client API for node.js (Up-to-date)
 
 [twode](http://github.com/streetlight/twode) is an improved version of [ntwitter](http://github.com/AvianFlu/ntwitter), which  is an improved version of jdub's [node-twitter](http://github.com/jdub/node-twitter), which in turn was inspired by, and uses some code from, technoweenie's [twitter-node](http://github.com/technoweenie/twitter-node).
 
+[![NPM](https://nodei.co/npm/twode.png)](https://nodei.co/npm/twode/)
 
 ## Installation
 
-You can install twode and its dependencies with npm: `npm install twode` (not yet published, so don't try).
+You can install twode and its dependencies with npm: `npm install twode`.
 
 
 ## Getting started
