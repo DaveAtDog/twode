@@ -3,15 +3,15 @@
   "version": "0.0.3",
   "description": "Asynchronous Twitter REST/stream/search client API for node.js.", 
   "keywords": ["twitter","streaming","oauth"], 
-  "homepage": "https://github.com/streetlight/twode", 
-  "author": "jdub, changes by AvianFlu, changes by streetlight", 
+  "homepage": "https://github.com/PunkChameleon/twode", 
+  "author": "jdub, changes by AvianFlu, changes by PunkChameleon", 
   "licenses": { 
     "type": "MIT", 
-    "url": "http://github.com/streetlight/twode/raw/master/LICENSE"
+    "url": "http://github.com/PunkChameleon/twode/raw/master/LICENSE"
   },
   "repository": { 
     "type": "git", 
-    "url": "http://github.com/streetlight/twode.git"
+    "url": "http://github.com/PunkChameleon/twode.git"
   }, 
   "dependencies": { 
     "oauth": ">=0.8.4", 
